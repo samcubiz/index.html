@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Samacube
+# 👋 Hey, I’m Sam
 
 ✨ Just starting out and learning how to build apps (with the help of prompts).  
 🌱 Right now I’m experimenting, making mistakes, and having fun figuring things out.  
@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 Projects
-- [My First App](https://github.com/samacube-bus/my-first-app)  
+- [My First App](https://github.com/samcubiz/my-first-app)  
 
 ---
 
@@ -28,8 +28,8 @@ Here are some of the tools and skills I’m exploring:
 ---
 
 ### 🌐 Connect
-- [My Website](https://samacube-bus.github.io)  
-- [GitHub](https://github.com/samacube-bus)  
+- [My Website](https://samcubiz.github.io)  
+- [GitHub](https://github.com/samcubiz)  
 
 ---
 
