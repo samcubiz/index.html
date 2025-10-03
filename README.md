@@ -25,7 +25,7 @@
   </style>
 </head>
 <body>
-  <h1>👋 Hi, I’m Samacube</h1>
+  <h1>👋 Hi, I’m Sam</h1>
   <p>I'm just starting out and learning how to build apps (with the help of prompts).</p>
   <p>Right now I’m experimenting, making mistakes, and having fun figuring things out.</p>
   
