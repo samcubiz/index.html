@@ -1,3 +1,6 @@
+
+![Banner](./banner.png)
+
 # 👋 Hey, I’m Sam
 
 ✨ Just starting out and learning how to build apps (with the help of prompts).  
