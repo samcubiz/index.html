@@ -1,5 +1,5 @@
 
-![Banner](./banner.png)
+![Banner](./vivad text banner.png)
 
 # 👋 Hey, I’m Sam
 
